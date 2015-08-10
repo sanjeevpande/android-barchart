@@ -1,1 +1,1 @@
-![20150421104942.jpg](https://bitbucket.org/repo/AELBdp/images/599336540-20150421104942.jpg)
+![Barchart](https://bitbucket-assetroot.s3.amazonaws.com/repository/AELBdp/599336540-20150421104942.jpg?Signature=iTHGy43kGHl1m00e9IjZLzcYuCk%3D&Expires=1439216530&AWSAccessKeyId=0EMWEFSGA12Z1HF1TZ82)
